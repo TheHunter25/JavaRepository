@@ -1,0 +1,17 @@
+package Caseproblems;
+
+import javax.swing.JOptionPane;
+
+Import javax.swing.JoptionPane;
+
+
+
+public class FirstDialog {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+JOptionPane.showMessageDialog(null,  "First Java dailog. ");
+
+	}
+
+}
